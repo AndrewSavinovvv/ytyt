@@ -54,6 +54,7 @@ import BottomComponent from "@/components/BottomComponent.vue";
   justify-content: center;
   text-align: center;
   align-items: center;
+  padding-bottom: 30px;
 }
 .about__title {
   margin-top: 55px;

@@ -32,6 +32,7 @@
   display: flex;
   gap: 20px;
   align-items: center;
+  padding-top: 20px;
 }
 
 .detail__left {

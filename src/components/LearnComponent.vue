@@ -62,6 +62,7 @@ const learnBlocks = [
 <style scoped>
 .learn {
   padding-top: 84px;
+  padding-bottom: 80px;
 }
 .learn__title {
   font-size: 46px;

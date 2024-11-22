@@ -97,6 +97,7 @@
 }
 .pricing {
   padding-top: 100px;
+  padding-bottom: 30px;
 }
 .pricing__detail {
   display: flex;
